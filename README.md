@@ -1,2 +1,2 @@
-# Yaguang_Li-ECEN765
+# ECEN765
 Course Materials
